@@ -2,3 +2,6 @@
 The first is about RefBase ,(porting to Linux)
 The second is how to create a native service (using binder in native)
 
+My native service was taken from https://github.com/keesj/Android-HelloWorldService and
+modified to work on ICS.
+
